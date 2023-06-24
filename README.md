@@ -12,3 +12,4 @@ P2DViewer is a third-party extension/library for Processing Java, allowing users
 ## Installation
 
 Just simple download the P2DViewer.jar and use it in your Java Processing Project.
+Or you if you are using Windows, you can use the P2DViewer Project Maker.exe to build a project without managing .jar files.
